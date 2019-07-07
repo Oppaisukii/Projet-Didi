@@ -2,10 +2,10 @@
 :: 1.0 Base CSS Start
 :: 2.0 Header Area CSS
 :: 3.0 Wellcome Area CSS
-:: 6.0 Video Area CSS
-:: 7.0 Cool Facts Area CSS
-:: 8.0 Screenshots Area CSS
-:: 14.0 Footer Area CSS Start
+:: 4.0 Vision Area
+:: 5.0 Video Area CSS
+:: 6.0 Cool Area CSS
+:: 7.0 Footer Area CSS Start
 -------------------------- */
 
 @import url('https://fonts.googleapis.com/css?family=Cabin:400,500,700|Montserrat:400,500,700');
@@ -13,7 +13,6 @@
 @import 'css/animate.css';
 @import 'css/magnific-popup.css';
 @import 'css/owl.carousel.min.css';
-@import 'css/slick.css';
 @import 'css/font-awesome.min.css';
 @import 'css/themify-icons.css';
 @import 'css/ionicons.min.css';
@@ -181,8 +180,6 @@ p {
     transition-duration: 500ms;
 }
 
-/* stcicky css */
-
 
 /* --------------------------
 :: 3.0 Wellcome Area CSS
@@ -273,7 +270,7 @@ p {
 }
 
 /* --------------------------
-:: 4.0 Special Area CSS
+:: 4.0 Vision Area CSS
 -------------------------- */
 
 .special_description_content > h2 {
@@ -283,7 +280,7 @@ p {
 }
 
 /* --------------------------
-:: 6.0 Video Area CSS
+:: 5.0 Video Area CSS
 -------------------------- */
 
 .video-area {
@@ -337,7 +334,7 @@ p {
 }
 
 /* --------------------------
-:: 7.0 Cool Facts Area CSS
+:: 6.0 Facts Area CSS
 -------------------------- */
 
 .cool_facts_area {
@@ -390,7 +387,7 @@ p {
 }
 
 /* --------------------------
-:: 14.0 Footer Area CSS Start
+:: 7.0 Footer Area CSS Start
 -------------------------- */
 
 .footer-text > h2 {
